@@ -21,7 +21,7 @@ Enter the directory.
 
 Set up the schema.
 ```sh
-  $ python3 schema-package/setup.py develop
+  $ python3 schema_package/setup.py develop
 ```
 ## Usage
 
